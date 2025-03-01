@@ -1,16 +1,22 @@
-# habittracker
+📌 GoalGrid – Habit Tracking App in Flutter 🚀
+GoalGrid is a lightweight and intuitive habit-tracking app built using Flutter, designed to help users build and sustain positive habits through interactive visualizations and seamless offline storage.
 
-A new Flutter project.
+✨ Features:
+✔ Minimalist UI – Simple and distraction-free design for an effortless experience.
+✔ Habit Streak Tracking – Visualize progress using a heatmap calendar.
+✔ Offline-First – Uses Isar (NoSQL database) for fast and efficient local storage.
+✔ Gesture-Based Management – Add, edit, and delete habits with swipe gestures (flutter_slidable).
+✔ Dark Mode – Seamless UI experience with a built-in dark theme.
+✔ Responsive Design – Works flawlessly across different screen sizes using flutter_screenutil.
+✔ State Management – Powered by Provider for smooth and efficient performance.
 
-## Getting Started
+🔧 Tech Stack:
+Flutter – Frontend framework for cross-platform development.
+Isar – NoSQL database for local storage.
+flutter_slidable – Gesture-based UI interactions.
+flutter_screenutil – Responsive UI across devices.
+Provider – State management for smooth performance.
+🎯 GoalGrid helps users stay consistent, stay motivated, and achieve their goals effectively! 🚀
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💡 Contributions & Feedback are Welcome! 🤝
+#Flutter #HabitTracking #GoalGrid #MobileAppDevelopment #UIUX
